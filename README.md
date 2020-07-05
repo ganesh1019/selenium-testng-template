@@ -24,8 +24,8 @@ Environment:
 Execution:
 ---------------
 *	Download the repo.
-*   Extract the Zip/Go to Directory foex-ui-automation.
-*	To run use command ....\.\foex-ui-automation> mvn clean test
+*   Extract the Zip/Go to project Directory 
+*	To run use command ....\.\selenium-testng-template> mvn clean test
 *	log4j configured to capture the test execution logs
 *   Chrome Driver in drivers/chromedriver
 *	Execution log is captured in the //logs/Automation_Execution.log
